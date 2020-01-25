@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding : 0;
+    
+  }
+
+  body{
+      
+     
+  }
+  .wrapper {
+      margin: 0 25px;
+  }
+  .index-page {
+    background: url('../Images/1.JPG') no-repeat;
+    background-size: cover;
+    font-family : Century Gothic;
+  }
+  .introduction-page {
+    font-family : Georgia !important;
+    background-color: cadetblue;
+  }
+  .trips-images{
+    margin-top: 20px;
+  }
+  .main-title {
+    display: inline-block;
+    margin-top: 25px;
+  }
+  .main {
+    float: right;
+  }
+  header {
+      background-image: url(../1.jpg);
+      height : 100 vh;
+      background-size : cover ;
+      background-position : centre;
+
+  }
+  ul{
+      float : right;
+      list-style-type:none;
+      margin-top: 25px;
+  }
+  ul li {
+      display : inline-block;
+  }
+  ul li a{
+    text-decoration : none;
+    color: rgb(27, 8, 8);
+    padding : 5px 20px;
+    border : 1px solid rgb(44, 9, 9);
+
+}
+ul li a:hover{
+    background-color: #000;
+    color: #ffff;
+}
