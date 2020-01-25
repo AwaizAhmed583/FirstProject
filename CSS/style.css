@@ -4,12 +4,11 @@
     
   }
 
-  body{
-      
-     
-  }
   .wrapper {
       margin: 0 25px;
+  }
+  .mt-10 {
+      margin-top: 10px;
   }
   .index-page {
     background: url('../Images/1.JPG') no-repeat;
@@ -18,10 +17,19 @@
   }
   .introduction-page {
     font-family : Georgia !important;
-    background-color: cadetblue;
+    background-color: rgb(25, 114, 117);
   }
   .trips-images{
     margin-top: 20px;
+  }
+  .hobbies-page{
+    font-family : Georgia !important;
+    background-color: rgb(28, 129, 133);
+  }
+  
+  .education-page{
+    font-family : Georgia !important;
+    background-color: rgb(28, 129, 133);
   }
   .main-title {
     display: inline-block;
